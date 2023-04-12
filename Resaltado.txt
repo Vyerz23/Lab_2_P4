@@ -1,0 +1,7 @@
+Celeste: Operación
+Verde: Parámetro
+Amarillo: Alt
+Naranja: Casos del alt
+Rojo: Precondición
+Lila: Op
+Rosa: Loop
