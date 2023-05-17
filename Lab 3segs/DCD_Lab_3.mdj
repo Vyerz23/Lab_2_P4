@@ -2689,7 +2689,7 @@
 											"font": "Arial;13;1",
 											"left": 1677,
 											"top": 519,
-											"width": 117,
+											"width": 107,
 											"height": 13,
 											"text": "Notificaciones"
 										},
@@ -2724,7 +2724,7 @@
 									"font": "Arial;13;0",
 									"left": 1672,
 									"top": 512,
-									"width": 127,
+									"width": 117,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGH7PI2XcD+fZY="
@@ -2761,7 +2761,7 @@
 											"font": "Arial;13;0",
 											"left": 1677,
 											"top": 542,
-											"width": 117,
+											"width": 107,
 											"height": 13,
 											"text": "cursoNuevo: string",
 											"horizontalAlignment": 0
@@ -2770,7 +2770,7 @@
 									"font": "Arial;13;0",
 									"left": 1672,
 									"top": 537,
-									"width": 127,
+									"width": 117,
 									"height": 23
 								},
 								{
@@ -2784,8 +2784,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1512,
-									"top": 227,
+									"left": 1408,
+									"top": 267,
 									"width": 99,
 									"height": 10
 								},
@@ -2800,8 +2800,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1304,
-									"top": -464,
+									"left": 1200,
+									"top": -424,
 									"width": 10,
 									"height": 10
 								},
@@ -2816,8 +2816,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1304,
-									"top": -464,
+									"left": 1200,
+									"top": -424,
 									"width": 10,
 									"height": 10
 								}
@@ -2827,8 +2827,9 @@
 							"containerChangeable": true,
 							"left": 1672,
 							"top": 512,
-							"width": 127,
-							"height": 49,
+							"width": 117,
+							"height": 48,
+							"autoResize": true,
 							"showVisibility": false,
 							"nameCompartment": {
 								"$ref": "AAAAAAGH7PI2XcD9TM0="
@@ -5688,13 +5689,47 @@
 											"height": 13,
 											"text": "enviarNotificacion(idi: DataIdioma, c: DataCurso)",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIKqY4w9iypuw=",
+											"_parent": {
+												"$ref": "AAAAAAGIIXfZ1pydHCc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIKqY4rdimuT8="
+											},
+											"font": "Arial;13;0",
+											"left": 669,
+											"top": 1339,
+											"width": 371,
+											"height": 13,
+											"text": "consultarNotificaciones(nick: string): Set(DataNotificacion)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIKqcocOGK+rQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIIXfZ1pydHCc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIKqcoZeF+ZbE="
+											},
+											"font": "Arial;13;0",
+											"left": 669,
+											"top": 1354,
+											"width": 371,
+											"height": 13,
+											"text": "eliminarNotificaciones(nick: string)",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 664,
 									"top": 1259,
 									"width": 381,
-									"height": 83
+									"height": 113
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -5735,7 +5770,7 @@
 							"left": 664,
 							"top": 1224,
 							"width": 381,
-							"height": 118,
+							"height": 148,
 							"showVisibility": false,
 							"nameCompartment": {
 								"$ref": "AAAAAAGIIXfZ1pyXDGc="
@@ -7449,7 +7484,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1988,
-									"top": 436,
+									"top": 451,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -7469,7 +7504,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1974,
-									"top": 439,
+									"top": 454,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -7488,7 +7523,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 2012,
-									"top": 432,
+									"top": 447,
 									"width": 7,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -7534,7 +7569,7 @@
 							"tail": {
 								"$ref": "AAAAAAGIIXfZ1pyWhIg="
 							},
-							"points": "1044:1328;2003:1328;2003:417",
+							"points": "1044:1328;2003:1328;2003:432",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGIJaBp+tgNM5s="
@@ -7935,13 +7970,30 @@
 											"height": 13,
 											"text": "notificarCursoNuevo(c: DataCurso)",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGIKqXygcFcvg4=",
+											"_parent": {
+												"$ref": "AAAAAAGIKcqE04M71ls="
+											},
+											"model": {
+												"$ref": "AAAAAAGIKqXydcE+U98="
+											},
+											"font": "Arial;13;0",
+											"left": 1901,
+											"top": 415,
+											"width": 198,
+											"height": 13,
+											"text": "eliminarNotificaciones()",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1896,
 									"top": 395,
 									"width": 208,
-									"height": 23
+									"height": 38
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -7981,7 +8033,7 @@
 							"left": 1896,
 							"top": 360,
 							"width": 208,
-							"height": 58,
+							"height": 73,
 							"autoResize": true,
 							"showVisibility": false,
 							"nameCompartment": {
@@ -8085,7 +8137,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1964,
-									"top": 436,
+									"top": 451,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -8106,7 +8158,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1977,
-									"top": 439,
+									"top": 454,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -8127,7 +8179,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1936,
-									"top": 432,
+									"top": 447,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -8147,7 +8199,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1823,
+									"left": 1813,
 									"top": 544,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -8167,7 +8219,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1826,
+									"left": 1816,
 									"top": 558,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -8186,9 +8238,9 @@
 										"$ref": "AAAAAAGIKfhBESjtaCA="
 									},
 									"font": "Arial;13;0",
-									"left": 1817,
+									"left": 1806,
 									"top": 517,
-									"width": 5,
+									"width": 7,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -8233,7 +8285,7 @@
 							"tail": {
 								"$ref": "AAAAAAGIKcqE04M0oL0="
 							},
-							"points": "1949:417;1949:536;1798:536",
+							"points": "1949:432;1949:536;1788:536",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGIKfhBESjwZj8="
@@ -8395,9 +8447,9 @@
 										"$ref": "AAAAAAGIKfmoYsmcgy0="
 									},
 									"font": "Arial;13;0",
-									"left": 1872,
+									"left": 1871,
 									"top": 365,
-									"width": 5,
+									"width": 7,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -8666,9 +8718,9 @@
 										"$ref": "AAAAAAGIKfoEygrhAX4="
 									},
 									"font": "Arial;13;0",
-									"left": 2013,
+									"left": 2012,
 									"top": 332,
-									"width": 5,
+									"width": 7,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -8999,9 +9051,9 @@
 										"$ref": "AAAAAAGIKiAQt2bW2AA="
 									},
 									"font": "Arial;13;0",
-									"left": 918,
+									"left": 917,
 									"top": 468,
-									"width": 5,
+									"width": 7,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -9270,9 +9322,9 @@
 										"$ref": "AAAAAAGIKiDU55iihHc="
 									},
 									"font": "Arial;13;0",
-									"left": 826,
+									"left": 825,
 									"top": 468,
-									"width": 5,
+									"width": 7,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -9540,9 +9592,9 @@
 										"$ref": "AAAAAAGIKjwC73oJlO8="
 									},
 									"font": "Arial;13;0",
-									"left": 1297,
+									"left": 1296,
 									"top": 676,
-									"width": 5,
+									"width": 7,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -12829,6 +12881,54 @@
 									"type": "DataCurso"
 								}
 							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGIKqY4rdimuT8=",
+							"_parent": {
+								"$ref": "AAAAAAGIIXfZ1pyUp1k="
+							},
+							"name": "consultarNotificaciones",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGIKqZsMNpC0ZM=",
+									"_parent": {
+										"$ref": "AAAAAAGIKqY4rdimuT8="
+									},
+									"name": "nick",
+									"type": "string"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGIKqZ6nN3IvgU=",
+									"_parent": {
+										"$ref": "AAAAAAGIKqY4rdimuT8="
+									},
+									"name": "Parameter1",
+									"type": "Set(DataNotificacion)",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGIKqcoZeF+ZbE=",
+							"_parent": {
+								"$ref": "AAAAAAGIIXfZ1pyUp1k="
+							},
+							"name": "eliminarNotificaciones",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGIKqdnHOMa0KA=",
+									"_parent": {
+										"$ref": "AAAAAAGIKqcoZeF+ZbE="
+									},
+									"name": "nick",
+									"type": "string"
+								}
+							]
 						}
 					]
 				},
@@ -13005,6 +13105,14 @@
 									"type": "DataCurso"
 								}
 							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGIKqXydcE+U98=",
+							"_parent": {
+								"$ref": "AAAAAAGIKcqE04MyzPc="
+							},
+							"name": "eliminarNotificaciones"
 						}
 					]
 				},
