@@ -1153,7 +1153,7 @@
 											"font": "Arial;13;1",
 											"left": 1085,
 											"top": 823,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "Curso"
 										},
@@ -1188,7 +1188,7 @@
 									"font": "Arial;13;0",
 									"left": 1080,
 									"top": 816,
-									"width": 360,
+									"width": 360.4541015625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHLdFD9D3jX2c="
@@ -1225,7 +1225,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 846,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"autoResize": true,
 											"text": "nomCurso: string",
@@ -1243,7 +1243,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 861,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "descripcion: string",
 											"horizontalAlignment": 0
@@ -1260,7 +1260,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 876,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "dificultad: Dif",
 											"horizontalAlignment": 0
@@ -1269,7 +1269,7 @@
 									"font": "Arial;13;0",
 									"left": 1080,
 									"top": 841,
-									"width": 360,
+									"width": 360.4541015625,
 									"height": 53
 								},
 								{
@@ -1294,7 +1294,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 899,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "encontrarInscripcion(estud: DataEstudiante): DataInscripcion",
 											"horizontalAlignment": 0
@@ -1311,7 +1311,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 914,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "noAprobadoCurso(estud: DataEstudiante): bool",
 											"horizontalAlignment": 0
@@ -1328,7 +1328,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 929,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "nuevaLeccion(nomTema: string, objLeccion: string)",
 											"horizontalAlignment": 0
@@ -1345,7 +1345,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 944,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "eliminarContenido()",
 											"horizontalAlignment": 0
@@ -1362,7 +1362,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 959,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "eliminarInscripciones()",
 											"horizontalAlignment": 0
@@ -1379,7 +1379,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 974,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "eliminarNotificacion(): DataNotificacion",
 											"horizontalAlignment": 0
@@ -1396,7 +1396,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 989,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "obtenerCantEjerciciosCurso(): int",
 											"horizontalAlignment": 0
@@ -1413,7 +1413,7 @@
 											"font": "Arial;13;0",
 											"left": 1085,
 											"top": 1004,
-											"width": 350,
+											"width": 350.4541015625,
 											"height": 13,
 											"text": "obtenerPromedioCurso(): int",
 											"horizontalAlignment": 0
@@ -1422,7 +1422,7 @@
 									"font": "Arial;13;0",
 									"left": 1080,
 									"top": 894,
-									"width": 360,
+									"width": 360.4541015625,
 									"height": 128
 								},
 								{
@@ -1463,7 +1463,7 @@
 							"containerChangeable": true,
 							"left": 1080,
 							"top": 816,
-							"width": 360,
+							"width": 360.4541015625,
 							"height": 206,
 							"autoResize": true,
 							"showVisibility": false,
@@ -1758,7 +1758,7 @@
 											"font": "Arial;13;1",
 											"left": 1869,
 											"top": 535,
-											"width": 251,
+											"width": 255.0361328125,
 											"height": 13,
 											"text": "Idioma"
 										},
@@ -1793,7 +1793,7 @@
 									"font": "Arial;13;0",
 									"left": 1864,
 									"top": 528,
-									"width": 261,
+									"width": 265.0361328125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHLfwWD4XkVLo="
@@ -1830,7 +1830,7 @@
 											"font": "Arial;13;0",
 											"left": 1869,
 											"top": 558,
-											"width": 251,
+											"width": 255.0361328125,
 											"height": 13,
 											"text": "nombre: string",
 											"horizontalAlignment": 0
@@ -1839,7 +1839,7 @@
 									"font": "Arial;13;0",
 									"left": 1864,
 									"top": 553,
-									"width": 261,
+									"width": 265.0361328125,
 									"height": 23
 								},
 								{
@@ -1864,7 +1864,7 @@
 											"font": "Arial;13;0",
 											"left": 1869,
 											"top": 581,
-											"width": 251,
+											"width": 255.0361328125,
 											"height": 13,
 											"text": "noEstaSuscrito(u: DataUsuario): bool",
 											"horizontalAlignment": 0
@@ -1881,7 +1881,7 @@
 											"font": "Arial;13;0",
 											"left": 1869,
 											"top": 596,
-											"width": 251,
+											"width": 255.0361328125,
 											"height": 13,
 											"text": "agregarUsuarioSuscripto(s: Suscripcion)",
 											"horizontalAlignment": 0
@@ -1898,7 +1898,7 @@
 											"font": "Arial;13;0",
 											"left": 1869,
 											"top": 611,
-											"width": 251,
+											"width": 255.0361328125,
 											"height": 13,
 											"text": "removerUsuarioSuscripcion(u: DataUsuario)",
 											"horizontalAlignment": 0
@@ -1915,7 +1915,7 @@
 											"font": "Arial;13;0",
 											"left": 1869,
 											"top": 626,
-											"width": 251,
+											"width": 255.0361328125,
 											"height": 13,
 											"text": "removerNotif(): DataNotificacion",
 											"horizontalAlignment": 0
@@ -1932,7 +1932,7 @@
 											"font": "Arial;13;0",
 											"left": 1869,
 											"top": 641,
-											"width": 251,
+											"width": 255.0361328125,
 											"height": 13,
 											"text": "removerCurso(curso: DataCurso)",
 											"horizontalAlignment": 0
@@ -1941,7 +1941,7 @@
 									"font": "Arial;13;0",
 									"left": 1864,
 									"top": 576,
-									"width": 261,
+									"width": 265.0361328125,
 									"height": 83
 								},
 								{
@@ -1982,7 +1982,7 @@
 							"containerChangeable": true,
 							"left": 1864,
 							"top": 528,
-							"width": 261,
+							"width": 265.0361328125,
 							"height": 131,
 							"autoResize": true,
 							"showVisibility": false,
@@ -2346,7 +2346,7 @@
 											"font": "Arial;13;1",
 											"left": 1757,
 											"top": 1007,
-											"width": 156,
+											"width": 156.09521484375,
 											"height": 13,
 											"text": "CompletarPalabra"
 										},
@@ -2381,7 +2381,7 @@
 									"font": "Arial;13;0",
 									"left": 1752,
 									"top": 1000,
-									"width": 166,
+									"width": 166.09521484375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHLjhGz95lmpw="
@@ -2418,7 +2418,7 @@
 											"font": "Arial;13;0",
 											"left": 1757,
 											"top": 1030,
-											"width": 156,
+											"width": 156.09521484375,
 											"height": 13,
 											"text": "frases: string",
 											"horizontalAlignment": 0
@@ -2435,7 +2435,7 @@
 											"font": "Arial;13;0",
 											"left": 1757,
 											"top": 1045,
-											"width": 156,
+											"width": 156.09521484375,
 											"height": 13,
 											"text": "solucion: string[*] {ordered}",
 											"horizontalAlignment": 0
@@ -2444,7 +2444,7 @@
 									"font": "Arial;13;0",
 									"left": 1752,
 									"top": 1025,
-									"width": 166,
+									"width": 166.09521484375,
 									"height": 38
 								},
 								{
@@ -2501,7 +2501,7 @@
 							"containerChangeable": true,
 							"left": 1752,
 							"top": 1000,
-							"width": 166,
+							"width": 166.09521484375,
 							"height": 63,
 							"autoResize": true,
 							"showVisibility": false,
@@ -2563,7 +2563,7 @@
 											"font": "Arial;13;1",
 											"left": 1965,
 											"top": 1007,
-											"width": 93,
+											"width": 94.1611328125,
 											"height": 13,
 											"text": "Traduccion"
 										},
@@ -2598,7 +2598,7 @@
 									"font": "Arial;13;0",
 									"left": 1960,
 									"top": 1000,
-									"width": 103,
+									"width": 104.1611328125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHLkO/9/XLafM="
@@ -2635,7 +2635,7 @@
 											"font": "Arial;13;0",
 											"left": 1965,
 											"top": 1030,
-											"width": 93,
+											"width": 94.1611328125,
 											"height": 13,
 											"text": "fraseTrad: string",
 											"horizontalAlignment": 0
@@ -2652,7 +2652,7 @@
 											"font": "Arial;13;0",
 											"left": 1965,
 											"top": 1045,
-											"width": 93,
+											"width": 94.1611328125,
 											"height": 13,
 											"text": "solucion: string",
 											"horizontalAlignment": 0
@@ -2661,7 +2661,7 @@
 									"font": "Arial;13;0",
 									"left": 1960,
 									"top": 1025,
-									"width": 103,
+									"width": 104.1611328125,
 									"height": 38
 								},
 								{
@@ -2718,7 +2718,7 @@
 							"containerChangeable": true,
 							"left": 1960,
 							"top": 1000,
-							"width": 103,
+							"width": 104.1611328125,
 							"height": 63,
 							"autoResize": true,
 							"showVisibility": false,
@@ -2966,7 +2966,7 @@
 											"font": "Arial;13;1",
 											"left": 1397,
 											"top": 535,
-											"width": 107,
+											"width": 108.3798828125,
 											"height": 13,
 											"text": "Notificaciones"
 										},
@@ -3001,7 +3001,7 @@
 									"font": "Arial;13;0",
 									"left": 1392,
 									"top": 528,
-									"width": 117,
+									"width": 118.3798828125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGH7PI2XcD+fZY="
@@ -3038,7 +3038,7 @@
 											"font": "Arial;13;0",
 											"left": 1397,
 											"top": 558,
-											"width": 107,
+											"width": 108.3798828125,
 											"height": 13,
 											"text": "cursoNuevo: string",
 											"horizontalAlignment": 0
@@ -3047,7 +3047,7 @@
 									"font": "Arial;13;0",
 									"left": 1392,
 									"top": 553,
-									"width": 117,
+									"width": 118.3798828125,
 									"height": 23
 								},
 								{
@@ -3104,7 +3104,7 @@
 							"containerChangeable": true,
 							"left": 1392,
 							"top": 528,
-							"width": 117,
+							"width": 118.3798828125,
 							"height": 48,
 							"autoResize": true,
 							"showVisibility": false,
@@ -3155,7 +3155,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 53,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "«singleton»"
 										},
@@ -3168,7 +3168,7 @@
 											"font": "Arial;13;1",
 											"left": 1029,
 											"top": 68,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "ControladorUsuarios"
 										},
@@ -3203,7 +3203,7 @@
 									"font": "Arial;13;0",
 									"left": 1024,
 									"top": 48,
-									"width": 316,
+									"width": 314.916015625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIIClzRIDgta4="
@@ -3230,7 +3230,7 @@
 									"font": "Arial;13;0",
 									"left": 1024,
 									"top": 86,
-									"width": 316,
+									"width": 314.916015625,
 									"height": 10
 								},
 								{
@@ -3255,7 +3255,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 101,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "nuevoEstudiante(dataEstud: DataEstudiante)",
 											"horizontalAlignment": 0
@@ -3272,7 +3272,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 116,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "nuevoProfesor(dataProfe: DataProfesor)",
 											"horizontalAlignment": 0
@@ -3289,7 +3289,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 131,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "obtenerProfesores(): Set(DataProfesor)",
 											"horizontalAlignment": 0
@@ -3306,7 +3306,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 146,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "getDataProfesor(nickProfesor: string): DataProfesor",
 											"horizontalAlignment": 0
@@ -3323,7 +3323,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 161,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "encontrarUsuario(nickname: string): DataUsuario",
 											"horizontalAlignment": 0
@@ -3340,7 +3340,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 176,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "listarProfesores(): Set(DataProfesor)",
 											"horizontalAlignment": 0
@@ -3357,7 +3357,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 191,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "elegirIdiomaProfesor(I: DataIdioma)",
 											"horizontalAlignment": 0
@@ -3374,7 +3374,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 206,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "ingresarUsuario(dataUsuario: DataUsuario)",
 											"horizontalAlignment": 0
@@ -3391,7 +3391,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 221,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "ingresarDatosEstudiante(pais: string, fecNac: Fecha)",
 											"horizontalAlignment": 0
@@ -3408,7 +3408,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 236,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "ingresarInstituto(instituto: string)",
 											"horizontalAlignment": 0
@@ -3425,7 +3425,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 251,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "agregarEspecializacion(idioma: DataIdioma)",
 											"horizontalAlignment": 0
@@ -3442,7 +3442,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 266,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "confirmarAltaUsuario()",
 											"horizontalAlignment": 0
@@ -3459,7 +3459,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 281,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "confirmarAltaEstudiante()",
 											"horizontalAlignment": 0
@@ -3476,7 +3476,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 296,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "confirmarAltaProfesor()",
 											"horizontalAlignment": 0
@@ -3493,7 +3493,7 @@
 											"font": "Arial;13;0",
 											"left": 1029,
 											"top": 311,
-											"width": 306,
+											"width": 304.916015625,
 											"height": 13,
 											"text": "listarEstudiantes(): Set(DataEstudiante)",
 											"horizontalAlignment": 0
@@ -3502,7 +3502,7 @@
 									"font": "Arial;13;0",
 									"left": 1024,
 									"top": 96,
-									"width": 316,
+									"width": 314.916015625,
 									"height": 233
 								},
 								{
@@ -3543,7 +3543,7 @@
 							"containerChangeable": true,
 							"left": 1024,
 							"top": 48,
-							"width": 316,
+							"width": 314.916015625,
 							"height": 281,
 							"autoResize": true,
 							"showVisibility": false,
@@ -3592,7 +3592,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 37,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "«singleton»"
 										},
@@ -3605,7 +3605,7 @@
 											"font": "Arial;13;1",
 											"left": 77,
 											"top": 52,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "ControladorCursos"
 										},
@@ -3640,7 +3640,7 @@
 									"font": "Arial;13;0",
 									"left": 72,
 									"top": 32,
-									"width": 368,
+									"width": 369.048828125,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIICm4i4FhLjw="
@@ -3667,7 +3667,7 @@
 									"font": "Arial;13;0",
 									"left": 72,
 									"top": 70,
-									"width": 368,
+									"width": 369.048828125,
 									"height": 10
 								},
 								{
@@ -3692,7 +3692,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 85,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "nuevoCurso(nomCurso: string, descCurso: string, difCurso)",
 											"horizontalAlignment": 0
@@ -3709,7 +3709,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 100,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "cursosNoAprobados(estud: DataEstudiante): Set(DataCurso)",
 											"horizontalAlignment": 0
@@ -3726,7 +3726,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 115,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "elegirProfesor(nickProfesor: string)",
 											"horizontalAlignment": 0
@@ -3743,7 +3743,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 130,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "crearCurso(nomCurso: string, descCurso: string, difCurso: Dif)",
 											"horizontalAlignment": 0
@@ -3760,7 +3760,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 145,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "listarCursosHab(): Set(DataCurso)",
 											"horizontalAlignment": 0
@@ -3777,7 +3777,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 160,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "agregarPrevia(nPrevia: DataCurso)",
 											"horizontalAlignment": 0
@@ -3794,7 +3794,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 175,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "agregarLeccionCN(nomTema: string, objLeccion: string)",
 											"horizontalAlignment": 0
@@ -3811,7 +3811,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 190,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "agregarEjercicio(desc: string, L DataLeccion)",
 											"horizontalAlignment": 0
@@ -3828,7 +3828,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 205,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "finalizarAltaCurso()",
 											"horizontalAlignment": 0
@@ -3845,7 +3845,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 220,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "listarIdiomasProfesor(): Set(DataIdioma)",
 											"horizontalAlignment": 0
@@ -3862,7 +3862,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 235,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "crearTraducir(desc: string, fraseT: string, solT: string)",
 											"horizontalAlignment": 0
@@ -3879,7 +3879,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 250,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "crearCompletar(desc: string, fraseC: string, solC: Set(string))",
 											"horizontalAlignment": 0
@@ -3896,7 +3896,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 265,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "eliminarCurso(curso: DataCurso)",
 											"horizontalAlignment": 0
@@ -3913,7 +3913,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 280,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "seleccionarEstudiante(nickname: string)",
 											"horizontalAlignment": 0
@@ -3930,7 +3930,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 295,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "obtenerCursosNoAprobadosEstudiante(): Set(DataCurso)",
 											"horizontalAlignment": 0
@@ -3947,7 +3947,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 310,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "seleccionarCurso(curso: DataCurso)",
 											"horizontalAlignment": 0
@@ -3964,7 +3964,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 325,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "listarEjerciciosNoAprobados(): Set(DataEjercicio)",
 											"horizontalAlignment": 0
@@ -3981,7 +3981,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 340,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "ingresarSolucionEjercicioTrad(respuesta: string)",
 											"horizontalAlignment": 0
@@ -3998,7 +3998,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 355,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "comprobarSolucionEjercicio(): bool",
 											"horizontalAlignment": 0
@@ -4015,7 +4015,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 370,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "comprobarCompletarPalabra(): bool",
 											"horizontalAlignment": 0
@@ -4032,7 +4032,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 385,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "comprobarTraducir(): bool",
 											"horizontalAlignment": 0
@@ -4049,7 +4049,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 400,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "mostrarFraseATraducir(): string",
 											"horizontalAlignment": 0
@@ -4066,7 +4066,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 415,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "mostrarFraseACompletar(): string",
 											"horizontalAlignment": 0
@@ -4083,7 +4083,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 430,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "ingresarSolucionEjercicioComp(respuestas: Set(string))",
 											"horizontalAlignment": 0
@@ -4100,7 +4100,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 445,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "enunciarEjercicio(): DataEjercicio",
 											"horizontalAlignment": 0
@@ -4117,7 +4117,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 460,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "seleccionarEjercicio(ejercicio: DataEjercicio)",
 											"horizontalAlignment": 0
@@ -4134,7 +4134,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 475,
-											"width": 358,
+											"width": 359.048828125,
 											"height": 13,
 											"text": "listarCursos(): Set(DataCurso)",
 											"horizontalAlignment": 0
@@ -4143,7 +4143,7 @@
 									"font": "Arial;13;0",
 									"left": 72,
 									"top": 80,
-									"width": 368,
+									"width": 369.048828125,
 									"height": 413
 								},
 								{
@@ -4184,7 +4184,7 @@
 							"containerChangeable": true,
 							"left": 72,
 							"top": 32,
-							"width": 368,
+							"width": 369.048828125,
 							"height": 461,
 							"autoResize": true,
 							"showVisibility": false,
@@ -4233,7 +4233,7 @@
 											"font": "Arial;13;0",
 											"left": 1917,
 											"top": 157,
-											"width": 182,
+											"width": 183.498046875,
 											"height": 13,
 											"text": "«singleton»"
 										},
@@ -4246,7 +4246,7 @@
 											"font": "Arial;13;1",
 											"left": 1917,
 											"top": 172,
-											"width": 182,
+											"width": 183.498046875,
 											"height": 13,
 											"text": "ControladorIdiomas"
 										},
@@ -4281,7 +4281,7 @@
 									"font": "Arial;13;0",
 									"left": 1912,
 									"top": 152,
-									"width": 192,
+									"width": 193.498046875,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIIFRKj4WwK14="
@@ -4308,7 +4308,7 @@
 									"font": "Arial;13;0",
 									"left": 1912,
 									"top": 190,
-									"width": 192,
+									"width": 193.498046875,
 									"height": 10
 								},
 								{
@@ -4333,7 +4333,7 @@
 											"font": "Arial;13;0",
 											"left": 1917,
 											"top": 205,
-											"width": 182,
+											"width": 183.498046875,
 											"height": 13,
 											"text": "listarIdiomas(): Set(DataIdioma)",
 											"horizontalAlignment": 0
@@ -4342,7 +4342,7 @@
 									"font": "Arial;13;0",
 									"left": 1912,
 									"top": 200,
-									"width": 192,
+									"width": 193.498046875,
 									"height": 23
 								},
 								{
@@ -4383,7 +4383,7 @@
 							"containerChangeable": true,
 							"left": 1912,
 							"top": 152,
-							"width": 192,
+							"width": 193.498046875,
 							"height": 71,
 							"autoResize": true,
 							"showVisibility": false,
@@ -5444,7 +5444,7 @@
 							"tail": {
 								"$ref": "AAAAAAGIIXfZ1pyWhIg="
 							},
-							"points": "1424:184;1339:184",
+							"points": "1424:184;1338:184",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGIIYqwS5fbVis="
@@ -7409,7 +7409,7 @@
 											"font": "Arial;13;1",
 											"left": 1477,
 											"top": 375,
-											"width": 323,
+											"width": 326.5615234375,
 											"height": 13,
 											"text": "Suscripcion"
 										},
@@ -7444,7 +7444,7 @@
 									"font": "Arial;13;0",
 									"left": 1472,
 									"top": 368,
-									"width": 333,
+									"width": 336.5615234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIKcqE04M2+B8="
@@ -7471,7 +7471,7 @@
 									"font": "Arial;13;0",
 									"left": 1472,
 									"top": 393,
-									"width": 333,
+									"width": 336.5615234375,
 									"height": 10
 								},
 								{
@@ -7496,7 +7496,7 @@
 											"font": "Arial;13;0",
 											"left": 1477,
 											"top": 408,
-											"width": 323,
+											"width": 326.5615234375,
 											"height": 13,
 											"text": "notificarCursoNuevo(c: DataCurso)",
 											"horizontalAlignment": 0
@@ -7513,7 +7513,7 @@
 											"font": "Arial;13;0",
 											"left": 1477,
 											"top": 423,
-											"width": 323,
+											"width": 326.5615234375,
 											"height": 13,
 											"text": "eliminarNotificaciones()",
 											"horizontalAlignment": 0
@@ -7530,7 +7530,7 @@
 											"font": "Arial;13;0",
 											"left": 1477,
 											"top": 438,
-											"width": 323,
+											"width": 326.5615234375,
 											"height": 13,
 											"text": "removerNotificacion(curso: DataCurso): DataNotificacion",
 											"horizontalAlignment": 0
@@ -7547,7 +7547,7 @@
 											"font": "Arial;13;0",
 											"left": 1477,
 											"top": 453,
-											"width": 323,
+											"width": 326.5615234375,
 											"height": 13,
 											"text": "mostrarNotificaciones(): Set(DataNotificacion)",
 											"horizontalAlignment": 0
@@ -7556,7 +7556,7 @@
 									"font": "Arial;13;0",
 									"left": 1472,
 									"top": 403,
-									"width": 333,
+									"width": 336.5615234375,
 									"height": 68
 								},
 								{
@@ -7596,7 +7596,7 @@
 							"containerChangeable": true,
 							"left": 1472,
 							"top": 368,
-							"width": 333,
+							"width": 336.5615234375,
 							"height": 103,
 							"autoResize": true,
 							"showVisibility": false,
@@ -7763,7 +7763,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1533,
+									"left": 1534,
 									"top": 559,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -7783,7 +7783,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1536,
+									"left": 1537,
 									"top": 573,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -7802,7 +7802,7 @@
 										"$ref": "AAAAAAGIKfhBESjtaCA="
 									},
 									"font": "Arial;13;0",
-									"left": 1526,
+									"left": 1527,
 									"top": 532,
 									"width": 7,
 									"height": 13,
@@ -7853,7 +7853,7 @@
 							"tail": {
 								"$ref": "AAAAAAGIKcqE04M0oL0="
 							},
-							"points": "1576:470;1576:551;1508:551",
+							"points": "1576:470;1576:551;1509:551",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGIKfhBESjwZj8="
@@ -9285,7 +9285,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 731,
+									"left": 732,
 									"top": 59,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -9306,7 +9306,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 731,
+									"left": 732,
 									"top": 44,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -9327,7 +9327,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 731,
+									"left": 732,
 									"top": 89,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -9345,7 +9345,7 @@
 							"tail": {
 								"$ref": "AAAAAAGIICm4i4FfIKE="
 							},
-							"points": "439:80;1024:80",
+							"points": "440:80;1024:80",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGIRRG/CZvuV6o="
@@ -9383,12 +9383,12 @@
 											"_parent": {
 												"$ref": "AAAAAAGIRRUrbwx/Cmo="
 											},
+											"visible": false,
 											"font": "Arial;13;0",
-											"left": 485,
+											"left": 565,
 											"top": 157,
-											"width": 451,
-											"height": 13,
-											"text": "«singleton»"
+											"width": 445.86572265625,
+											"height": 13
 										},
 										{
 											"_type": "LabelView",
@@ -9397,9 +9397,9 @@
 												"$ref": "AAAAAAGIRRUrbwx/Cmo="
 											},
 											"font": "Arial;13;1",
-											"left": 485,
-											"top": 172,
-											"width": 451,
+											"left": 525,
+											"top": 159,
+											"width": 445.86572265625,
 											"height": 13,
 											"text": "ControladorEstadisticas"
 										},
@@ -9411,7 +9411,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 352,
+											"left": 432,
 											"top": -1552,
 											"width": 73.67724609375,
 											"height": 13,
@@ -9425,17 +9425,17 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 352,
+											"left": 432,
 											"top": -1552,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 480,
+									"left": 520,
 									"top": 152,
-									"width": 461,
-									"height": 38,
+									"width": 455.86572265625,
+									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGIRRUrbwyAROk="
 									},
@@ -9459,9 +9459,9 @@
 										"$ref": "AAAAAAGIRRUrbwx8h+k="
 									},
 									"font": "Arial;13;0",
-									"left": 480,
-									"top": 190,
-									"width": 461,
+									"left": 520,
+									"top": 177,
+									"width": 455.86572265625,
 									"height": 10
 								},
 								{
@@ -9484,9 +9484,9 @@
 												"$ref": "AAAAAAGIRRWL9mH3WxU="
 											},
 											"font": "Arial;13;0",
-											"left": 485,
-											"top": 205,
-											"width": 451,
+											"left": 525,
+											"top": 192,
+											"width": 445.86572265625,
 											"height": 13,
 											"text": "listarEstadisticaCurso(curso: DataCurso): DataEstadCurso",
 											"horizontalAlignment": 0
@@ -9501,9 +9501,9 @@
 												"$ref": "AAAAAAGIRRYtqWSiFZ4="
 											},
 											"font": "Arial;13;0",
-											"left": 485,
-											"top": 220,
-											"width": 451,
+											"left": 525,
+											"top": 207,
+											"width": 445.86572265625,
 											"height": 13,
 											"text": "listarEstadisticaProfesor(profesor: DataProfesor): DataEstadProfesor",
 											"horizontalAlignment": 0
@@ -9518,9 +9518,9 @@
 												"$ref": "AAAAAAGIRRcCh4UzooY="
 											},
 											"font": "Arial;13;0",
-											"left": 485,
-											"top": 235,
-											"width": 451,
+											"left": 525,
+											"top": 222,
+											"width": 445.86572265625,
 											"height": 13,
 											"text": "listarEstadisticaEstudiante(estudiante: DataEstudiante): DataEstadEstudiante",
 											"horizontalAlignment": 0
@@ -9535,18 +9535,18 @@
 												"$ref": "AAAAAAGIRSK6d0on3WQ="
 											},
 											"font": "Arial;13;0",
-											"left": 485,
-											"top": 250,
-											"width": 451,
+											"left": 525,
+											"top": 237,
+											"width": 445.86572265625,
 											"height": 13,
 											"text": "seleccionarEstadisticaDeseada(eleccion: Estadistica)",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 480,
-									"top": 200,
-									"width": 461,
+									"left": 520,
+									"top": 187,
+									"width": 455.86572265625,
 									"height": 68
 								},
 								{
@@ -9560,7 +9560,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 176,
+									"left": 216,
 									"top": -776,
 									"width": 10,
 									"height": 10
@@ -9576,7 +9576,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 176,
+									"left": 216,
 									"top": -776,
 									"width": 10,
 									"height": 10
@@ -9584,10 +9584,10 @@
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 480,
+							"left": 520,
 							"top": 152,
-							"width": 461,
-							"height": 116,
+							"width": 455.86572265625,
+							"height": 103,
 							"autoResize": true,
 							"showVisibility": false,
 							"nameCompartment": {
@@ -9687,7 +9687,7 @@
 							"tail": {
 								"$ref": "AAAAAAGIRRUrbwx+q3k="
 							},
-							"points": "664:267;664:304;439:304",
+							"points": "664:254;664:304;440:304",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGIRSpvGszIeTE="
@@ -9780,7 +9780,7 @@
 							"tail": {
 								"$ref": "AAAAAAGIRRUrbwx+q3k="
 							},
-							"points": "776:267;776:304;1024:304",
+							"points": "776:254;776:304;1024:304",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGIRSp6+dYJA1M="
@@ -13521,7 +13521,7 @@
 							}
 						}
 					],
-					"stereotype": "singleton",
+					"stereotype": "",
 					"operations": [
 						{
 							"_type": "UMLOperation",
